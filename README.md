@@ -8,7 +8,7 @@
         <img src='https://user-images.githubusercontent.com/60513866/193420194-36d02223-e2b7-4f5b-9327-6a331b842456.gif' alt='developer' />
 </div>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=36BCF7FF&center=true&vCenter=true&lines=Computer+Science+Student;Software+Engineer;Competitive+Programmer;Always+have+a+passion+for+coding+and+learning&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=36BCF7FF&center=true&vCenter=true&lines=Computer+Science+Student;Software+Engineer;Competitive + Programmer;Always+have+a+passion+for+coding+and+learning&center=true&width=500&height=50"></a>
 </p>
 <h3 align="center">An Android developer with a passion for coding and learning I'm interested in new technologies and competitive programming.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hazemamaar&label=Profile%20views&color=0e75b6&style=flat" alt="hazemamaar" /> </p>
